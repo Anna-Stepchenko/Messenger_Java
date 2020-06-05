@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages>
+    <message from="anna@s.ua" id="18" moment="12:39:22 20-05-2020" to="anna@s.ua">Hello</message>
+    <message from="natan@h.ua" id="20" moment="12:44:42 20-05-2020" to="anna@s.ua">Hi there!</message>
+    <message from="anna@s.ua" id="21" moment="12:45:15 20-05-2020" to="natan@h.ua">Hello Natan!!!</message>
+    <message from="natan@h.ua" id="22" moment="15:59:50 20-05-2020" to="anna@s.ua">How r u doing?</message>
+    <message from="anna@s.ua" id="23" moment="16:00:48 24-05-2020" to="natan@h.ua">I'm fine, and you?</message>
+    <message from="sam@w.ua" id="24" moment="16:03:05 24-05-2020" to="natan@h.ua">Hey! Are we going to party tonight?</message>
+    <message from="natan@h.ua" id="25" moment="16:04:44 24-05-2020" to="sam@w.ua">Exactly yes</message>
+    <message from="natan@h.ua" id="26" moment="16:05:25 24-05-2020" to="sam@w.ua">And what about your granny, Sam? Is he feeling well?</message>
+    <message from="sam@w.ua" id="27" moment="16:06:55 24-05-2020" to="natan@h.ua">Pretty well, thanks for your care, I appreciate it</message>
+    <message from="natan@h.ua" id="28" moment="16:07:48 24-05-2020" to="sam@w.ua">And what about Anna? Shall I invite her?</message>
+    <message from="sam@w.ua" id="29" moment="16:08:18 24-05-2020" to="natan@h.ua">Sure, buddy</message>
+    <message from="sam@w.ua" id="30" moment="16:09:10 24-05-2020" to="natan@h.ua">She's gonna bring musical instruments and cola</message>
+    <message from="natan@h.ua" id="31" moment="16:09:49 24-05-2020" to="sam@w.ua">I'll definetely invite her!</message>
+    <message from="natan@h.ua" id="32" moment="16:10:46 24-05-2020" to="anna@s.ua">Quite well. Wound you mind joining us at the Sam's party?</message>
+    <message from="anna@s.ua" id="33" moment="16:28:27 24-05-2020" to="natan@h.ua">Of course no</message>
+    <message from="anna@s.ua" id="34" moment="16:29:23 24-05-2020" to="natan@h.ua">I'll bring staff that I promised</message>
+    <message from="kate@j.uk" id="35" moment="18:19:02 24-05-2020" to="kate@j.uk">It's my personal blog</message>
+    <message from="ruby" id="36" moment="13:12:41 03-06-2020" to="kate@j.uk">I extremely love the music that you've sent!!</message>
+</messages>
+
